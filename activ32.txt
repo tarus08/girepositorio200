@@ -1,4 +1,5 @@
 hola mundo que tal estas todo es precioso, la vida macho
+<<<<<<< HEAD
 fa
 sdasdf adf
 asfa
@@ -10,6 +11,21 @@ asfasd
 dfasdffasd
 faads
 dsffadsfadsfdsfdsfdsfdsf
+=======
+fasdfasda
+sdffa
+asdf
+sfasd
+asffasd
+af
+sfadsf
+asf
+asd
+fds
+f
+dsf
+ds
+>>>>>>> actividad3
 as
 df
 adsf
